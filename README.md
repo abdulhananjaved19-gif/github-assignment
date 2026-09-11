@@ -1,2 +1,2 @@
 # github-assignment
-"Introduction to Git and GitHub coursework"
+"Introduction to Git and GitHu coursework"
